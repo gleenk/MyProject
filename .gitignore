@@ -15,7 +15,7 @@ $RECYCLE.BIN/
 *.msp
 node_modules/
 Gruntfile.js
-public/archivio-prodotti.php
+public/**/*.php
 
 
 # =========================
