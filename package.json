@@ -1,0 +1,15 @@
+{
+  "name": "bruxismo",
+  "version": "0.0.1",
+  "dependencies": {
+    "grunt-cli": "latest",
+    "grunt-autoprefixer": "latest",
+    "grunt-contrib-less": "latest",
+    "grunt-css": "latest",
+    "grunt-contrib-watch": "latest"
+  },
+  "devDependencies": {
+    "grunt-contrib-cssmin": "~0.10.0",
+    "grunt-ftp-push": "~0.2.4"
+  }
+}

@@ -1,0 +1,1183 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"mar",
+				"margin-right"
+			],
+			[
+				"one",
+				"one-fifth	 layout.less"
+			],
+			[
+				"col",
+				"col	 layout.less"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"over",
+				"overflow"
+			],
+			[
+				"max-",
+				"max-height"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"ch",
+				"checked"
+			],
+			[
+				"text-de",
+				"text-indent"
+			],
+			[
+				"inl",
+				"inline"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"r",
+				"right"
+			],
+			[
+				"te",
+				"text-decoration"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"border-co",
+				"border-color"
+			],
+			[
+				"margin",
+				"margin-right"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"margi",
+				"margin-top"
+			],
+			[
+				"get",
+				"getdest"
+			],
+			[
+				"mat",
+				"margin-top"
+			],
+			[
+				"backgrou",
+				"background-size"
+			],
+			[
+				"bac",
+				"background-attachment"
+			],
+			[
+				"line",
+				"line-height"
+			],
+			[
+				"inline-",
+				"inline-block"
+			],
+			[
+				"mi",
+				"middle"
+			],
+			[
+				"b",
+				"block"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"ma",
+				"margin-bottom"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"pa",
+				"padding-right"
+			],
+			[
+				"sect",
+				"section	Tag"
+			],
+			[
+				"avvocato",
+				"avvocato-recupero-crediti"
+			],
+			[
+				"spesa",
+				"spesaIniziale"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"backgr",
+				"background"
+			],
+			[
+				"blo",
+				"block"
+			],
+			[
+				"bord",
+				"border-box"
+			],
+			[
+				"box-s",
+				"box-sizing"
+			],
+			[
+				"a",
+				"auto"
+			],
+			[
+				"box-",
+				"box-shadow"
+			],
+			[
+				"en",
+				"entry-content	 source.less"
+			],
+			[
+				"text-",
+				"text-decoration"
+			],
+			[
+				"background-c",
+				"background-color"
+			],
+			[
+				"entr",
+				"entry-content	 style.css"
+			],
+			[
+				"categori",
+				"categoria-works"
+			],
+			[
+				"z-",
+				"z-index"
+			],
+			[
+				"ow",
+				"owl-nav	 owl.carousel.min.css"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"bo",
+				"both"
+			],
+			[
+				"entry",
+				"entry-content	 style.css"
+			],
+			[
+				"border",
+				"border"
+			],
+			[
+				"background",
+				"background"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"paddi",
+				"padding-left"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"i",
+				"inline-block"
+			],
+			[
+				"word",
+				"word-wrap"
+			],
+			[
+				"block_typ",
+				"block_type_01"
+			],
+			[
+				"txt",
+				"txtleft	 source.less"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"li",
+				"lightacquaC	 source.less"
+			],
+			[
+				"lig",
+				"lightergrayC	 source.less"
+			],
+			[
+				"ligh",
+				"lightgrayC	 source.less"
+			],
+			[
+				"entry-t",
+				"entry-thumb	 source.less"
+			],
+			[
+				"ent",
+				"entry-thumb	 source.less"
+			],
+			[
+				"page",
+				"page-title	 source.less"
+			],
+			[
+				"t",
+				"txtcenter	 source.less"
+			],
+			[
+				"entr-",
+				"entry-content	 source.less"
+			],
+			[
+				"fl",
+				"fleft	 source.less"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"taxono",
+				"taxonomy_exists"
+			],
+			[
+				"read",
+				"readmore_2	 source.less"
+			],
+			[
+				"clear",
+				"clearfix"
+			],
+			[
+				"wi",
+				"widget-title	 source.less"
+			],
+			[
+				"head",
+				"header	Tag"
+			],
+			[
+				"m",
+				"margin-bottom"
+			],
+			[
+				"e",
+				"entry-title	 starter.css"
+			],
+			[
+				"fi",
+				"first-child"
+			],
+			[
+				"entry-",
+				"entry-content	 starter.css"
+			],
+			[
+				"g",
+				"lightGrayC	 source.less"
+			],
+			[
+				"clea",
+				"clean-list	 source.less"
+			],
+			[
+				"ac",
+				"action	Attr"
+			],
+			[
+				"squ",
+				"square-content	 source.less"
+			],
+			[
+				"spo",
+				"sponsor-box	 source.less"
+			],
+			[
+				"less",
+				"grunt-contrib-less"
+			],
+			[
+				"border-c",
+				"border-color"
+			],
+			[
+				"bor",
+				"border-box"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"clean",
+				"clean-list	 style.css"
+			],
+			[
+				"ted",
+				"text-decoration"
+			],
+			[
+				"main",
+				"main-wrapper	 style 2.css"
+			],
+			[
+				"nex",
+				"next-prev-wrap	 style.css"
+			],
+			[
+				"re",
+				"repeat-x"
+			],
+			[
+				"social",
+				"social-links	 style.css"
+			],
+			[
+				"background-p",
+				"background-repeat"
+			],
+			[
+				"no",
+				"nowrap"
+			],
+			[
+				"to",
+				"top"
+			],
+			[
+				"border-",
+				"border-box"
+			],
+			[
+				"the_",
+				"the_field"
+			],
+			[
+				"min-",
+				"min-height"
+			],
+			[
+				"border-r",
+				"border-right"
+			],
+			[
+				"field-",
+				"field-item	 style.less"
+			],
+			[
+				"backr",
+				"background-attachment"
+			],
+			[
+				"le",
+				"left"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"p",
+				"padding-top"
+			],
+			[
+				"fotn-",
+				"font-weight"
+			],
+			[
+				"eas",
+				"ease-in-out"
+			],
+			[
+				"list-t",
+				"list-style"
+			],
+			[
+				"c",
+				"class	Attr"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"tab",
+				"table-cell"
+			],
+			[
+				"v",
+				"visibility"
+			],
+			[
+				"trans",
+				"transition"
+			],
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"mas",
+				"mastH"
+			],
+			[
+				"supp",
+				"suppH"
+			],
+			[
+				"cli",
+				"click"
+			],
+			[
+				"ov",
+				"overflow"
+			],
+			[
+				"st",
+				"style	Tag"
+			],
+			[
+				"cl",
+				"class"
+			],
+			[
+				"d",
+				"display"
+			],
+			[
+				"list-s",
+				"list-style"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 242.0,
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"SassBeautify",
+				"SassBeautify"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: StartHtml"
+			],
+			[
+				"",
+				"Set Syntax: Emmet"
+			],
+			[
+				"emmet",
+				"Emmet: Expand Abbreviation"
+			],
+			[
+				"htmlprettify",
+				"HTMLPrettify"
+			],
+			[
+				"remove pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"alignem",
+				"Preferences: Alignment Key Bindings – Default"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 480.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/xampp/htdocs/yeppon/public",
+		"/C/xampp/htdocs/yeppon/public/inc",
+		"/C/xampp/htdocs/yeppon/public/less"
+	],
+	"file_history":
+	[
+		"/C/Users/Gleenk/AppData/Local/Temp/fz3temp-1/index.php",
+		"/C/Users/Gleenk/AppData/Local/Temp/fz3temp-1/style.css",
+		"/C/xampp/htdocs/yeppon/public/less/base.less",
+		"/C/xampp/htdocs/yeppon/public/less/style.less",
+		"/C/xampp/htdocs/yeppon/public/less/layout.less",
+		"/C/xampp/htdocs/yeppon/public/base.php",
+		"/C/xampp/htdocs/yeppon/public/archivio-prodotti.php",
+		"/C/xampp/htdocs/yeppon/public/inc/masthead.inc.php",
+		"/C/xampp/htdocs/erredi/public/index.php",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/C/xampp/htdocs/startup/public/less/layout.less",
+		"/C/xampp/htdocs/startup/public/less/style.less",
+		"/C/xampp/htdocs/yeppon/public/less/source.less",
+		"/C/xampp/htdocs/yeppon/public/inc/scripts.inc.php",
+		"/C/xampp/htdocs/yeppon/public/inc/head.inc.php",
+		"/C/xampp/htdocs/yeppon/public/includes/headers.inc.php",
+		"/C/xampp/htdocs/startup/public/less/source.less",
+		"/C/xampp/htdocs/PACCHETTO-START/public/less/source.less",
+		"/C/xampp/htdocs/PACCHETTO-START/public/js/custom.js",
+		"/C/xampp/htdocs/PACCHETTO-START/public/index.php",
+		"/C/xampp/htdocs/PACCHETTO-START/public/style.css",
+		"/C/xampp/htdocs/PACCHETTO-START/public/style.min.css",
+		"/C/xampp/htdocs/startup/public/esempi.php",
+		"/C/xampp/htdocs/startup/Gruntfile.js",
+		"/C/xampp/htdocs/startup/public/form.php",
+		"/C/xampp/htdocs/startup/public/index.php",
+		"/C/xampp/htdocs/startup/public/_style.css",
+		"/C/xampp/htdocs/startup/esempi.php",
+		"/C/xampp/htdocs/startup/layout.css",
+		"/C/xampp/htdocs/startup/style.css",
+		"/C/xampp/htdocs/startup/index.php",
+		"/C/xampp/htdocs/romana/public/index.php",
+		"/C/xampp/htdocs/romana/public/less/source.less",
+		"/C/xampp/htdocs/fash/wp-content/themes/fashionstreet/js/custom.js",
+		"/C/xampp/htdocs/fash/wp-content/themes/fashionstreet/style.css",
+		"/C/xampp/htdocs/cegos/index.php",
+		"/C/xampp/htdocs/cegos/style.css",
+		"/C/xampp/htdocs/cegos/js/custom.js",
+		"/C/Users/Gleenk/AppData/Local/Temp/fz3temp-1/footer.php",
+		"/C/Users/Gleenk/AppData/Local/Temp/fz3temp-1/tpl-home.php",
+		"/C/Users/Gleenk/AppData/Local/Temp/fz3temp-1/robots.txt",
+		"/C/Users/Gleenk/AppData/Local/Temp/fz3temp-1/test.html",
+		"/C/Users/Gleenk/AppData/Local/Temp/fz3temp-1/.htaccess",
+		"/C/xampp/htdocs/romana/public/style.css",
+		"/C/Users/Gleenk/AppData/Local/Temp/fz3temp-1/header.php",
+		"/C/xampp/htdocs/cegos/fonts/neosansstd-light.css",
+		"/C/Users/Gleenk/AppData/Local/Temp/fz3temp-1/category-548.php",
+		"/C/xampp/htdocs/fash/wp-content/themes/fashionstreet/section-contatti.php",
+		"/C/xampp/htdocs/fash/wp-content/themes/fashionstreet/footer.php",
+		"/C/xampp/htdocs/fash/wp-content/themes/fashionstreet/header.php",
+		"/C/xampp/htdocs/fash/wp-content/themes/fashionstreet/functions.php",
+		"/C/xampp/htdocs/fash/wp-content/themes/fashionstreet/index.php",
+		"/C/xampp/htdocs/fash/wp-content/themes/fashionstreet/page.php",
+		"/C/xampp/htdocs/fash/wp-content/themes/fashionstreet/error_log",
+		"/C/Users/Gleenk/AppData/Local/Temp/fz3temp-1/functions.php",
+		"/C/Users/Gleenk/AppData/Local/Temp/fz3temp-1/custom-post-type.php",
+		"/C/Users/Gleenk/AppData/Local/Temp/fz3temp-1/single-prodotti.php",
+		"/C/Users/Gleenk/AppData/Local/Temp/fz3temp-1/tpl-catalogo.php",
+		"/C/Users/Gleenk/AppData/Local/Temp/fz3temp-1/sidebar.php",
+		"/C/Users/Gleenk/AppData/Local/Temp/fz3temp-1/sidebar-interna.php",
+		"/C/Users/Gleenk/AppData/Local/Temp/fz3temp-1/tpl-area-riservata.php",
+		"/C/Users/Gleenk/Desktop/tpl-area-riservata.php",
+		"/C/xampp/htdocs/tfs/.htaccess",
+		"/C/xampp/htdocs/tfs/wp-config.php",
+		"/C/Users/Gleenk/Desktop/66_71_190_97.sql.sql",
+		"/C/xampp/htdocs/romana/public/form/contatti-ita.php",
+		"/C/xampp/htdocs/romana/public/form/preventivi-ita.php",
+		"/C/Users/Gleenk/AppData/Local/Temp/fz3temp-1/preventivi-ita.php",
+		"/C/Users/Gleenk/AppData/Local/Temp/fz3temp-1/contatti-ita.php",
+		"/C/xampp/htdocs/romana/public/js/custom.js",
+		"/C/Users/Gleenk/AppData/Local/Temp/fz3temp-1/custom.js",
+		"/C/Users/Gleenk/AppData/Local/Temp/fz3temp-1/send.php",
+		"/J/Gleenk/Lavori Web/TFS/Backup TFSspa/Spazio Web/httpdocs/wp-content/themes/Simple/style.css",
+		"/C/Users/Gleenk/AppData/Local/Temp/fz3temp-1/page.php",
+		"/C/Users/Gleenk/AppData/Local/Temp/fz3temp-1/custom-5box-formazione-de.php",
+		"/C/Users/Gleenk/AppData/Local/Temp/fz3temp-1/custom-5box-formazione-eng.php",
+		"/C/Users/Gleenk/AppData/Local/Temp/fz3temp-1/custom-5box-formazione.php",
+		"/C/Users/Gleenk/AppData/Local/Temp/fz3temp-1/custom-5box-servizi-de.php",
+		"/C/Users/Gleenk/AppData/Local/Temp/fz3temp-1/custom-5box-servizi-eng.php",
+		"/C/Users/Gleenk/AppData/Local/Temp/fz3temp-1/custom-5box-servizi.php",
+		"/C/Users/Gleenk/AppData/Local/Temp/fz3temp-1/page old.php",
+		"/C/xampp/htdocs/pelletmyfire/public/less/source.less",
+		"/C/xampp/htdocs/pelletmyfire/public/js/custom.js",
+		"/C/xampp/htdocs/romana/public/bower_components/jquery-placeholder/demo.html",
+		"/C/xampp/htdocs/romana/public/bower_components/jquery-placeholder/tests/index.html",
+		"/C/xampp/htdocs/romana/public/bower_components/jquery-placeholder/tests/tests.js",
+		"/C/Users/Gleenk/AppData/Local/Temp/fz3temp-1/single-webinar.php",
+		"/C/Users/Gleenk/AppData/Local/Temp/fz3temp-1/single.php",
+		"/C/xampp/htdocs/romana/public/css/owl.theme.default.css",
+		"/C/xampp/htdocs/romana/public/css/owl.carousel.css",
+		"/C/Users/Gleenk/AppData/Local/Temp/fz3temp-1/contact.php",
+		"/C/xampp/htdocs/romana/Gruntfile.js",
+		"/C/Users/Gleenk/AppData/Local/Temp/fz3temp-1/simple-share-buttons-adder.php",
+		"/C/xampp/htdocs/romana/public/bower_components/ResponsiveSlides.js/responsiveslides.css",
+		"/C/Users/Gleenk/AppData/Local/Temp/fz3temp-1/wp-config.php",
+		"/C/Users/Gleenk/AppData/Local/Temp/fz3temp-1/error_log",
+		"/C/Users/Gleenk/AppData/Local/Temp/fz3temp-1/loop-page.php",
+		"/C/Users/Gleenk/AppData/Local/Temp/fz3temp-1/loop.php",
+		"/C/Users/Gleenk/AppData/Local/Temp/fz3temp-1/functions 3.php",
+		"/C/Users/Gleenk/AppData/Local/Temp/fz3temp-1/functions 2.php",
+		"/C/Users/Gleenk/AppData/Local/Temp/Rar$DIa0.181/responsiveslides.css",
+		"/C/Users/Gleenk/AppData/Local/Temp/fz3temp-1/loop-single.php",
+		"/C/Users/Gleenk/AppData/Local/Temp/Rar$DIa0.109/stylesheet.css",
+		"/C/Users/Gleenk/AppData/Local/Temp/fz3temp-1/petitabold.css",
+		"/C/Users/Gleenk/AppData/Local/Temp/fz3temp-1/_mobify.php",
+		"/C/Users/Gleenk/AppData/Local/Temp/fz3temp-1/header 2.php",
+		"/C/xampp/htdocs/deevo/public/index.php",
+		"/C/xampp/htdocs/deevo/public/less/source.less",
+		"/J/Dropbox/Condivisa Manu/DEEVO/deevo1-assets/contatti.svg",
+		"/J/Dropbox/Condivisa Manu/DEEVO/deevo1-assets/servizi.svg",
+		"/J/Dropbox/Condivisa Manu/DEEVO/man.html",
+		"/J/Dropbox/Condivisa Manu/DEEVO/deevo1-assets/test.svg",
+		"/C/Users/Gleenk/Downloads/optimised.svg",
+		"/C/Users/Gleenk/AppData/Roaming/Sublime Text 3/Packages/CSScomb/CSScomb.sublime-settings",
+		"/C/xampp/htdocs/deevo/public/homepage.php",
+		"/C/xampp/htdocs/deevo/public/js/custom.js",
+		"/C/xampp/htdocs/deevo/public/css/compiled.css",
+		"/C/xampp/htdocs/nearbytour/public/less/source.less",
+		"/C/xampp/htdocs/nearbytour/public/homepage.php",
+		"/C/xampp/htdocs/nearbytour/Gruntfile.js",
+		"/C/xampp/htdocs/nearbytour/public/style.css",
+		"/C/xampp/htdocs/nearbytour/package.json",
+		"/C/Users/Gleenk/AppData/Local/Temp/fz3temp-1/error_log_php",
+		"/C/Users/Gleenk/Downloads/areadite_pellet.sql",
+		"/C/Users/Gleenk/AppData/Local/Temp/fz3temp-1/promotori.php",
+		"/C/Users/Gleenk/Desktop/20140724_pelletmyfire_53d0f94de59fc5964140724121717_archive/wp-content/themes/pelletmyfire/404.php",
+		"/C/Users/Gleenk/Desktop/20140724_pelletmyfire_53d0f94de59fc5964140724121717_archive/wp-content/themes/pelletmyfire/_image.php",
+		"/C/Users/Gleenk/Desktop/20140724_pelletmyfire_53d0f94de59fc5964140724121717_archive/wp-content/themes/pelletmyfire/archive.php"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"",
+			"J:\\Gleenk\\Lavori Web\\TFS",
+			"",
+			"C:\\Users\\Gleenk\\Desktop\\yh",
+			"",
+			"C:\\Users\\Gleenk\\Desktop\\20140724_pelletmyfire_53d0f94de59fc5964140724121717_archive\\wp-content\\themes\\pelletmyfire",
+			"",
+			"C:\\xampp\\htdocs\\pelletmyfire\\wordpress\\wp-content\\themes\\pelletmyfire",
+			"",
+			"C:\\Users\\Gleenk\\Desktop\\20140709_farmaciafavero_53bd0b049f2ac8391140709092732_archive,C:\\Users\\Gleenk\\Desktop\\20140709_farmaciafavero_53bd0b049f2ac8391140709092732_archive",
+			"C:\\Users\\Gleenk\\Desktop\\20140709_farmaciafavero_53bd0b049f2ac8391140709092732_archive",
+			"",
+			"C:\\xampp\\htdocs\\lorena",
+			"",
+			"C:\\xampp\\htdocs\\lorena\\js,C:\\xampp\\htdocs\\lorena",
+			"C:\\xampp\\htdocs\\lorena\\js",
+			"",
+			"C:\\Users\\Gleenk\\Desktop\\farmacia-favero",
+			"<open files>",
+			"",
+			"C:\\xampp\\htdocs\\prestito24\\wp-content\\themes\\prestito",
+			"C:\\Users\\Gleenk\\Desktop\\Lucid",
+			"",
+			"<open files>",
+			"C:\\Users\\Gleenk\\Desktop\\bk_WEB_assistenza-legale-imprese_it",
+			"",
+			"<open files>",
+			"",
+			"C:\\xampp\\htdocs\\muroni\\wp-content\\themes\\joyphotographers",
+			"",
+			"C:\\Users\\Gleenk\\Desktop\\cam",
+			"",
+			"C:\\Users\\Gleenk\\Desktop\\aaa",
+			"",
+			"C:\\xampp\\htdocs\\avvocatorecuperocrediti",
+			"",
+			"C:\\Users\\Gleenk\\Desktop\\aaa",
+			"",
+			"C:\\Users\\Gleenk\\Desktop\\amelia",
+			"",
+			"C:\\Users\\Gleenk\\Desktop\\gara",
+			"",
+			"C:\\Users\\Gleenk\\Desktop\\gara",
+			"",
+			"Open Files",
+			"Open File",
+			"C:\\Users\\Gleenk\\Desktop\\velocity",
+			"",
+			"C:\\Users\\Gleenk\\Desktop\\aaa",
+			"",
+			"Open Files",
+			"",
+			"C:\\Users\\Gleenk\\Desktop\\velocity",
+			"",
+			"C:\\Users\\Gleenk\\Desktop\\tfscheck",
+			"",
+			"C:\\xampp\\htdocs\\pavan\\wp-content\\themes\\pavan",
+			"",
+			"C:\\xampp\\htdocs\\leonardi\\wp-content\\themes\\leonardi",
+			"",
+			"gleenk_starter_theme_"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"@media",
+			".info-blocks span.smaller",
+			"square-con",
+			"gestione",
+			".work-step .actions .btn",
+			"eight",
+			"owl-c",
+			"fixed",
+			"produ",
+			"sito",
+			"sito produttivo",
+			"owl-ca",
+			"owl.carousel.css",
+			"owl-",
+			"owl-carousel",
+			"section-",
+			"news",
+			"step-",
+			":hover",
+			".actions",
+			".actions a",
+			"checkbok",
+			"training-payoff\"",
+			"#pull",
+			"main-menu",
+			"#owl-demo .item",
+			"#top-menu",
+			"#section-01",
+			"html",
+			"#owl-demo .item",
+			"#top-menu",
+			"^\\n",
+			".entry-content .item-thumb",
+			".products-area .listing-products .made-badge",
+			"box",
+			"table",
+			"http://www.tfsspa.com",
+			"tfs",
+			"preventivo-messages",
+			"preventivo",
+			"preventivo-messages",
+			"preventivo",
+			"contatti",
+			"form",
+			"contatti",
+			"ru",
+			"base64_decode",
+			"popup",
+			"#content",
+			"language",
+			"menu",
+			"fixed",
+			"menu",
+			"masthead",
+			"newsbox",
+			"h1",
+			"servizi-lin",
+			"traduzione",
+			"servizi-linguistici",
+			".sbox a",
+			"letter-spacing: -2px;",
+			"ul.trebuttons li.botpiccolo .sbox",
+			"piccolo",
+			"class=\"yellow",
+			"h1",
+			"servizi",
+			"h1",
+			"yellow-bkd",
+			"</h1>",
+			"<h1 class=\"yellow\">",
+			"yellow",
+			"bbox",
+			"yellow-mini",
+			"h2",
+			"yellow",
+			"h2 class=\"",
+			"86",
+			"76",
+			"h2 class=\"yellow\"",
+			"yello",
+			"trebuttons",
+			"yellow",
+			"76",
+			"yellow",
+			"86",
+			".main-section.section-laboratorio",
+			"inner",
+			"preventivo",
+			"form-item",
+			"popup",
+			"form-item",
+			"title",
+			"form",
+			"ipto",
+			".text-box",
+			"mobile-",
+			"language",
+			".menu",
+			"main-wrapper",
+			"owl-controls",
+			".menu",
+			"romana",
+			"asap",
+			".title",
+			"produ",
+			"main-wra",
+			"menu",
+			"border-ra",
+			"language",
+			"lato",
+			"sticky",
+			"stick",
+			"jquer",
+			"#f9",
+			"#f90",
+			"red",
+			"before",
+			"footer",
+			"readmore",
+			":hover",
+			"lato",
+			"header",
+			"masth",
+			"masther",
+			"^\\n",
+			"mobif",
+			"{\n",
+			"}\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"checkbox",
+			"",
+			"http://localhost/tfs",
+			"class=\"yellow bbox",
+			"div",
+			"</div>",
+			"<div class=\"yellow sidebck\">",
+			"",
+			"http://www.pelletmyfire.it",
+			"",
+			"pellet-my-fire",
+			"prodotti",
+			"pellet_my_fire",
+			"pellet_my_fire_",
+			"avvocato-recupero-crediti",
+			"<?php bloginfo('template_directory')?>/images/",
+			"jQuery",
+			"calendar",
+			".buono-area",
+			"info@lorenaventurini.it",
+			"lang=\"it-IT\"",
+			"",
+			"studio_vigano_theme_",
+			"floor((",
+			"round((",
+			"floor((",
+			"http://www.ok1racingteam.it",
+			"",
+			"bt1_",
+			"bt1",
+			"",
+			"images/",
+			"fonts/",
+			"images/",
+			"fonts/",
+			"<?php bloginfo('template_directory');?>/images/",
+			"",
+			"images/",
+			"",
+			"http://www.joyphotographers.com/newsite",
+			"",
+			".post-content ",
+			"",
+			".fontLora",
+			"prestito_theme",
+			"",
+			".outerHeight(",
+			"@darkGrayC",
+			"@darkGrayC;",
+			"'",
+			"È",
+			"",
+			"/home/myserv77/public_html/cepar/asslegimp/plugins/",
+			"",
+			"http://testingarea.it/cepar/franchisor",
+			"",
+			"max-height: none;",
+			"",
+			"readmore clearfix",
+			"",
+			"'has_archive' => false,",
+			"'has_archive' => true,",
+			"'with_front' => false",
+			"",
+			"\"",
+			"'",
+			"\"",
+			"joyphotographers_theme",
+			"images/",
+			"@media (max-width: 768px)",
+			"",
+			"#333333",
+			"#004b7a",
+			"",
+			"http://www.studioortodonziaodontoiatria.it",
+			"",
+			"a href=\"i-clienti-dicono-di-noi.html\" class=\"dicono-top-link\"",
+			"img src=\"images/i-clienti-dicono-di-noi.jpg\"",
+			"src=\"images/blog.gif\"",
+			"",
+			"#de4a37",
+			"",
+			"jQuery(",
+			".single-team",
+			"blueveil_theme",
+			"",
+			", ",
+			"",
+			"http://www.orolive.it",
+			"",
+			"'",
+			"</strong>",
+			"<strong>",
+			">",
+			"<",
+			"",
+			"'",
+			"",
+			"daybydin_theme",
+			"Magazine",
+			"",
+			"lavorazioni",
+			"ea6420",
+			"182a80",
+			"images/",
+			"",
+			"http://niasca.testingarea.it",
+			"",
+			"it",
+			"",
+			"\"",
+			"",
+			"http://www.tfsspa.com",
+			"http://localhost/tfs",
+			"http://localhost/tfsspa",
+			"pavan_theme",
+			"",
+			"http://leonardi.testingarea.it",
+			"",
+			"font-weight: 700",
+			"",
+			"#222222",
+			"Neiga Regular",
+			"Naiga Regular",
+			"",
+			"leonardi-theme",
+			"leonardi_starter_theme",
+			"leonardi_starter_theme_"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.CSS Extended Completions":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "yeppon.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\Gleenk\\AppData\\Local\\Temp\\fz3temp-1\\custom.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 228.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

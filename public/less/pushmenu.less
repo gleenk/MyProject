@@ -1,0 +1,137 @@
+/* General styles for all menus */
+.pm-menu {
+	position: fixed;
+	overflow-y: auto;
+}
+
+/* Orientation-dependent styles for the content of the menu */
+
+.pm-menu-vertical {
+	width: 240px;
+	height: 100%;
+	top: 0;
+	z-index: 1000;
+}
+
+
+.pm-menu-horizontal {
+	width: 100%;
+	height: 150px;
+	left: 0;
+	z-index: 1000;
+	overflow: hidden;
+}
+
+.pm-menu-horizontal h3 {
+	height: 100%;
+	width: 20%;
+	float: left;
+}
+
+.pm-menu-horizontal a {
+	float: left;
+	width: 20%;
+	padding: 0.8em;
+	border-left: 1px solid #258ecd;
+}
+
+/* Vertical menu that slides from the left or right */
+
+.pm-menu-left {
+	left: -240px;
+}
+
+.pm-menu-right {
+	right: -240px;
+}
+
+.pm-menu-left.pm-menu-open {
+	left: 0px;
+}
+
+.pm-menu-right.pm-menu-open {
+	right: 0px;
+}
+
+/* Horizontal menu that slides from the top or bottom */
+
+.pm-menu-top {
+	top: -150px;
+}
+
+.pm-menu-bottom {
+	bottom: -150px;
+}
+
+.pm-menu-top.pm-menu-open {
+	top: 0px;
+}
+
+.pm-menu-bottom.pm-menu-open {
+	bottom: 0px;
+}
+
+/* Push classes applied to the body */
+
+.pm-menu-push {
+	overflow-x: hidden;
+	position: relative;
+	left: 0;
+}
+
+.pm-menu-push-toright {
+	left: 240px;
+}
+
+.pm-menu-push-toleft {
+	left: -240px;
+}
+
+/* Transitions */
+
+.pm-menu,
+.pm-menu-push {
+	-webkit-transition: all 0.3s ease;
+	-moz-transition: all 0.3s ease;
+	transition: all 0.3s ease;
+}
+
+/* Example media queries */
+
+@media screen and (max-width: 55.1875em){
+
+	.pm-menu-horizontal {
+		font-size: 75%;
+		height: 110px;
+	}
+
+	.pm-menu-top {
+		top: -110px;
+	}
+
+	.pm-menu-bottom {
+		bottom: -110px;
+	}
+
+}
+
+@media screen and (max-height: 26.375em){
+
+	.pm-menu-vertical {
+		font-size: 90%;
+		width: 190px;
+	}
+
+	.pm-menu-left,
+	.pm-menu-push-toleft {
+		left: -190px;
+	}
+
+	.pm-menu-right {
+		right: -190px;
+	}
+
+	.pm-menu-push-toright {
+		left: 190px;
+	}
+}
