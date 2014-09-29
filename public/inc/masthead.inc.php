@@ -36,7 +36,7 @@
                         <div class="pop pop-my-yep" id="pop-my-yep">
                             <div class="triangle"></div>
                             <ul class="nav-my-yep">
-                                <li><a href="">Il mio acocunt</a></li>
+                                <li><a href="">Il mio account</a></li>
                                 <li><a href="">I miei ordini</a></li>
                                 <li><a href="">La mia lista desideri</a></li>
                                 <li><a href="">Consigliati per te</a></li>

@@ -16,7 +16,7 @@
         </div> <!-- /.content-block -->
         <div class="price-block">
             <a href="#" class="scopri"><img src="images/ico-scopri.png" alt=""></a>
-            <div class="listino-01"><span class="label-listino">prezzo di listino</span> <br> <span class="prezzo-listino">€349,00</span></div>
+            <div class="listino-01"><span class="label-listino">prezzo di listino</span><span class="prezzo-listino">€349,00</span></div>
             <div class="listino-02">A soli €289,90</div>
             <a href="#" class="btn btn-green-01 btn-full"><span class="ico-cart-small"></span>Aggiungi al carrello</a>
         </div><!-- /.price-block -->
@@ -38,7 +38,7 @@
         </div> <!-- /.content-block -->
         <div class="price-block">
             <a href="#" class="scopri"><img src="images/ico-scopri.png" alt=""></a>
-            <div class="listino-01"><span class="label-listino">prezzo di listino</span> <br> <span class="prezzo-listino">€349,00</span></div>
+            <div class="listino-01"><span class="label-listino">prezzo di listino</span><span class="prezzo-listino">€349,00</span></div>
             <div class="listino-02">A soli €289,90</div>
             <a href="#" class="btn btn-green-01 btn-full"><span class="ico-cart-small"></span>Aggiungi al carrello</a>
         </div><!-- /.price-block -->
@@ -60,7 +60,7 @@
         </div> <!-- /.content-block -->
         <div class="price-block">
             <a href="#" class="scopri"><img src="images/ico-scopri.png" alt=""></a>
-            <div class="listino-01"><span class="label-listino">prezzo di listino</span> <br> <span class="prezzo-listino">€349,00</span></div>
+            <div class="listino-01"><span class="label-listino">prezzo di listino</span><span class="prezzo-listino">€349,00</span></div>
             <div class="listino-02">A soli €289,90</div>
             <a href="#" class="btn btn-green-01 btn-full"><span class="ico-cart-small"></span>Aggiungi al carrello</a>
         </div><!-- /.price-block -->
@@ -82,7 +82,7 @@
         </div> <!-- /.content-block -->
         <div class="price-block">
             <a href="#" class="scopri"><img src="images/ico-scopri.png" alt=""></a>
-            <div class="listino-01"><span class="label-listino">prezzo di listino</span> <br> <span class="prezzo-listino">€349,00</span></div>
+            <div class="listino-01"><span class="label-listino">prezzo di listino</span><span class="prezzo-listino">€349,00</span></div>
             <div class="listino-02">A soli €289,90</div>
             <a href="#" class="btn btn-green-01 btn-full"><span class="ico-cart-small"></span>Aggiungi al carrello</a>
         </div><!-- /.price-block -->
@@ -104,7 +104,7 @@
         </div> <!-- /.content-block -->
         <div class="price-block">
             <a href="#" class="scopri"><img src="images/ico-scopri.png" alt=""></a>
-            <div class="listino-01"><span class="label-listino">prezzo di listino</span> <br> <span class="prezzo-listino">€349,00</span></div>
+            <div class="listino-01"><span class="label-listino">prezzo di listino</span><span class="prezzo-listino">€349,00</span></div>
             <div class="listino-02">A soli €289,90</div>
             <a href="#" class="btn btn-green-01 btn-full"><span class="ico-cart-small"></span>Aggiungi al carrello</a>
         </div><!-- /.price-block -->
@@ -126,7 +126,7 @@
         </div> <!-- /.content-block -->
         <div class="price-block">
             <a href="#" class="scopri"><img src="images/ico-scopri.png" alt=""></a>
-            <div class="listino-01"><span class="label-listino">prezzo di listino</span> <br> <span class="prezzo-listino">€349,00</span></div>
+            <div class="listino-01"><span class="label-listino">prezzo di listino</span><span class="prezzo-listino">€349,00</span></div>
             <div class="listino-02">A soli €289,90</div>
             <a href="#" class="btn btn-green-01 btn-full"><span class="ico-cart-small"></span>Aggiungi al carrello</a>
         </div><!-- /.price-block -->

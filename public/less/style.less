@@ -33,14 +33,14 @@
 	}
 
 	&.btn-my-yep {
-		background: url(images/ico-my-yeppon.png) right center @gray no-repeat;
+		background: url(images/ico-my-yeppon.png) 95% center @gray no-repeat;
 		color:@white;
 		padding-right: 40px;
 		position: relative;
 	}
 
 	&.btn-my-cart {
-		background: url(images/ico-cart.png) right center @green no-repeat;
+		background: url(images/ico-cart.png) 95% center @green no-repeat;
 		color:@white;
 		padding-right: 60px;
 		position: relative;
@@ -133,7 +133,18 @@ ul.dash li:before {
 .top-myyep-block{
 	display: inline-block;
 	position: relative;
+	margin-left: 5px;
+	.btn{
+		height: 50px;
+		font-weight: 700;
+		letter-spacing: -0.5px;
+		span{
+			vertical-align: middle;
+		}
+	}
 }
+
+
 
 .top-cart-block:hover .pop-cart,
 .top-myyep-block:hover .pop-my-yep{
@@ -208,7 +219,7 @@ ul.dash li:before {
 
 
 		.inner-wrap{
-			padding:1em 2em;
+			padding:1em 1.5em;
 			background: @white;
 			border: 1px solid @green;
 			margin-top: 0.5em;
@@ -223,7 +234,7 @@ ul.dash li:before {
 		}
 
 		.list-item{
-			padding: 0.5em 0;
+			padding: 1em 0;
 			border-top: 1px solid @lightgray;
 
 			&:first-child{
@@ -241,12 +252,14 @@ ul.dash li:before {
 
 		.description{
 			margin-left: 70px;
+			text-align: left;
 		}
 
 		.prod-title{
 			font-size: 0.875em;
 			line-height: 1.5em;
 			margin-bottom: 1em;
+			text-align: left;
 			a{
 				color: @black;
 				&:hover{
@@ -258,13 +271,15 @@ ul.dash li:before {
 		.prod-label{
 			font-size: 0.875em;
 			color: @gray;
+			margin-right: 5px;
 		}
 		.prod-qt{
 			width: 40px;
 			color: @black;
-			background: #eeeeee;
-			border:1px solid @darkgray;
+			background: #f3f3f3;
+			border:1px solid #ccc;
 			padding:4px 5px;
+			margin-right: 5px;
 
 			&:focus {
 				border: 1px solid @blue;
@@ -273,9 +288,13 @@ ul.dash li:before {
 			}
 		}
 
+		.prod-price{
+			font-weight: 700;
+		}
+
 		.listing-total-count{
 			background: @lightgray;
-			margin: 1em -2em -1em -2em;
+			margin: 1em -1.5em -1em -1.5em;
 			padding:1em 2em;
 
 			.label,
@@ -300,9 +319,12 @@ ul.dash li:before {
 	.search-field {
 		width: 100%;
 		padding: 8px 10px;
-		font-size: 1em;
+		font-size: 0.875em;
 		margin-right: 60px;
 		font-family: 'Open Sans', sans-serif;
+		font-style: italic;
+		border: 2px solid #ccc;
+		box-shadow: inset 1px 1px 2px rgba(0,0,0,0.1);
 
 		&:focus {
 			border: 2px solid @blue;
@@ -696,15 +718,19 @@ ul.dash li:before {
 		margin-bottom: 1em;
 	}
 	.listino-01{
-		margin-bottom: 1em;
+		margin-bottom: 0.5em;
 		color: @gray;
 		.label-listino{
+			display: block;
 			font-size: 0.875em;
 			font-weight: 300;
+			white-space: nowrap;
+			margin-bottom: 4px;
 		}
 		.prezzo-listino{
 			text-decoration: line-through;
 			font-size: 1.125em;
+			display: block;
 		}
 	}
 	.listino-02{
