@@ -16,7 +16,7 @@ $RECYCLE.BIN/
 node_modules/
 Gruntfile.js
 public/**/*.php
-
+.ftpauth 
 
 # =========================
 # Operating System Files
