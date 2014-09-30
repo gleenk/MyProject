@@ -283,7 +283,7 @@ img {
   display: inline-block;
   vertical-align: middle;
   width: 20px;
-  height: 25px;
+  height: 30px;
   margin-right: 10px;
 }
 /* ANIMATION */
@@ -688,6 +688,10 @@ ul.dash li:before {
   color: #3e9dd1;
   margin-bottom: 1em;
 }
+.sidebox .sf-check {
+  font-size: 0.875em;
+  color: #3e9dd1;
+}
 .filter-area {
   background: #3e9dd1;
   padding: 0.65em;
@@ -831,7 +835,7 @@ ul.dash li:before {
   width: 69px;
   height: 86px;
   position: absolute;
-  bottom: 0;
+  bottom: -1em;
   right: 0;
 }
 .listing-product .kind {
@@ -910,12 +914,12 @@ ul.dash li:before {
 }
 .listing-product.listing-rows .thumb {
   float: left;
-  width: 50%;
-  padding-right: 0.5em;
+  width: 40%;
+  margin-right: 2%;
 }
 .listing-product.listing-rows .entry {
   float: right;
-  width: 50%;
+  width: 58%;
 }
 .listing-product.listing-rows .price-block {
   float: right;
@@ -1043,6 +1047,9 @@ ul.dash li:before {
 /* ===== == = === 56.25em (900px) === = == ===== */
 /* ===== == = === 48em (768px) === = == ===== */
 @media only screen and (max-width: 48em) {
+  .ico-filtri:before {
+    margin-right: 5px;
+  }
   .filter-area .switcher,
   .filter-area .showperpage {
     float: right;
@@ -1155,6 +1162,9 @@ ul.dash li:before {
     vertical-align: middle;
     color: #ffffff;
   }
+  .footer-bottom .logo-footer {
+    margin-bottom: 1em;
+  }
   .close {
     display: block;
   }
@@ -1162,6 +1172,12 @@ ul.dash li:before {
 /* ===== == = === 37.5em (667px) === = == ===== */
 /* ===== == = === 37.5em (600px) === = == ===== */
 @media only screen and (max-width: 37.5em) {
+  body .col-group {
+    padding: 1em;
+  }
+  .filter-nav {
+    line-height: 40px;
+  }
   .topper-bar,
   .filter-area,
   .filter-nav .item-brandnav,
@@ -1178,6 +1194,10 @@ ul.dash li:before {
     display: block;
     position: absolute;
     right: 0;
+  }
+  .filter-nav .item-orderby,
+  .filter-nav .item-filterby {
+    padding-right: 20px;
   }
   .listing-product .listino-01 .label-listino {
     display: none;
@@ -1380,6 +1400,7 @@ ul.dash li:before {
 }
 .pm-menu-push-toright {
   left: 240px;
+  overflow: hidden;
 }
 .pm-menu-push-toleft {
   left: -240px;

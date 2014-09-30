@@ -161,7 +161,7 @@
 	display: inline-block;
 	vertical-align: middle;
 	width: 20px;
-	height: 25px;
+	height: 30px;
 	margin-right: 10px;
 }
 
@@ -628,6 +628,11 @@ ul.dash li:before {
 		margin-bottom: 1em;
 	}
 
+	.sf-check{
+		font-size: 0.875em;
+		color: @blue;
+	}
+
 
 }
 
@@ -792,7 +797,7 @@ ul.dash li:before {
 			width: 69px;
 			height: 86px;
 			position: absolute;
-			bottom: 0;
+			bottom: -1em;
 			right: 0;
 		}
 	}
@@ -879,12 +884,12 @@ ul.dash li:before {
 		}
 		.thumb{
 			float: left;
-			width: 50%;
-			padding-right: 0.5em;
+			width: 40%;
+			margin-right: 2%;
 		}
 		.entry{
 			float: right;
-			width: 50%;
+			width: 58%;
 		}
 
 		.price-block{
@@ -1052,6 +1057,12 @@ ul.dash li:before {
 /* ===== == = === 48em (768px) === = == ===== */
 @media only screen and (max-width : 48em) {
 
+
+	.ico-filtri:before{
+		margin-right: 5px;
+	}
+
+
 	.filter-area .switcher,
 	.filter-area .showperpage{
 		float:right;
@@ -1174,6 +1185,9 @@ ul.dash li:before {
 		} 
 
 	}
+	.footer-bottom .logo-footer{
+		margin-bottom: 1em;
+	}
 
 	.close{display: block;}
 
@@ -1185,6 +1199,14 @@ ul.dash li:before {
 
 /* ===== == = === 37.5em (600px) === = == ===== */
 @media only screen and (max-width: 37.5em) {
+
+	body .col-group{
+		padding:1em;
+	}
+
+	.filter-nav{
+		line-height: 40px;
+	}
 	.topper-bar,
 	.filter-area,
 	.filter-nav .item-brandnav,
@@ -1201,6 +1223,11 @@ ul.dash li:before {
 		display: block;
 		position: absolute;
 		right:0;
+	}
+
+	.filter-nav .item-orderby,
+	.filter-nav .item-filterby{
+		padding-right: 20px;
 	}
 
 	.listing-product .listino-01 .label-listino{
@@ -1348,6 +1375,7 @@ ul.dash li:before {
 
 /* ===== == = === 30em (480px) === = == ===== */
 @media only screen and (max-width : 30em) {
+
 	.logo{
 		max-width: 120px;
 	}
