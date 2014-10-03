@@ -369,7 +369,7 @@ ul.dash li:before {
 			overflow:hidden;
 		}
 
-		.description{
+		.features{
 			margin-left: 70px;
 			text-align: left;
 		}
@@ -502,7 +502,7 @@ ul.dash li:before {
 		display: block;
 		font-size: 0.813em;
 		color: @darkergray;
-		padding: 1em 10px;
+		padding: 1em 8px;
 		text-decoration: none;
 		.upper;
 		&:hover,
@@ -821,7 +821,7 @@ ul.dash li:before {
 			}
 		}
 	}
-	.description{
+	.features{
 		font-size: 1em;
 		line-height: 1.3125em;
 		font-weight: 300;
@@ -907,13 +907,7 @@ ul.dash li:before {
 		.reviews {display: none;}
 
 		.single-item {
-			width: 30%;
-			margin-left:5%;
 			float: left;
-			&:first-child,
-			&:nth-child(3n+1){
-				margin-left: 0;
-			}	
 		}
 
 		.kind{
@@ -922,7 +916,7 @@ ul.dash li:before {
 			margin-bottom: 1em;
 			color: @darkergray;
 		}
-		.description{
+		.features{
 			font-size: 1em;
 			line-height: 1.3125em;
 			font-weight: 300;
@@ -942,6 +936,96 @@ ul.dash li:before {
 	}
 
 }
+
+
+.listing-col-3{ 
+	.listing-grid{
+		.single-item{
+			width: 30%;
+			margin-left:3%; 
+
+			&:first-child,
+			&:nth-child(3n+1){
+				margin-left: 0;
+			}
+		}
+	}
+}
+
+.listing-col-4{ 
+	.listing-grid{
+		.single-item{
+			width: 22%; 
+			margin-left:3%;
+
+			&:first-child,
+			&:nth-child(4n+1){
+				margin-left: 0;
+			}
+		}
+		.title{
+			font-size: 1.2em;
+		}
+		.listino-02{
+			font-size: 1.2em;
+		}
+		.prezzo-listino{
+			font-size: 0.875em;
+		}
+	}
+}
+
+.listing-col-5{ 
+	.listing-grid{
+		.single-item{
+			width: 18%; 
+			margin-left:2%;
+
+			&:first-child,
+			&:nth-child(5n+1){
+				margin-left: 0;
+			}
+		}
+		.title{
+			font-size: 1em;
+		}
+		.listino-02{
+			font-size: 1em;
+		}
+		.prezzo-listino{
+			font-size: 0.875em;
+		}
+	}
+}
+
+.listing-col-3,
+.listing-col-4,
+.listing-col-5{
+	&.listing-small{
+		.features,
+		.kind,
+		.large-text{
+			display: none;
+		}
+	}
+}
+
+
+/*** PRODUCT DETAIL ***/
+.product-detail-block{
+	.left,
+	.right{
+		width: 50%;
+	}
+	.left{
+		float: left;
+	}
+	.right{
+		float: right;
+		padding-left: 20px;
+	}
+}
+
 
 .bottom-area{
 	margin: 1em 0;
