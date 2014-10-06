@@ -1020,8 +1020,9 @@ ul.dash li:before {
 }
 
 
-/*** PRODUCT DETAIL ***/
-.product-block{
+/* ---------- PRODUCT BLOCK ---------- */
+
+.single-product-block{
 	.product-detail	{
 		.left,
 		.right{
@@ -1033,6 +1034,23 @@ ul.dash li:before {
 		.right{
 			float: right;
 			padding-left: 20px;
+		}
+		.title{
+			font-size: 2.5em;
+			line-height: 1.1em;
+			margin-bottom: 1em;
+			font-weight: 700;
+			display: inline-block;
+		}
+		.brand{
+			font-size: 1.125em;
+			margin-left: 0.5em;
+			color: @black;
+			text-decoration: underline;
+			&:hover{
+				color: @green;
+				text-decoration: none;
+			}
 		}
 	}
 }

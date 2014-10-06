@@ -1017,17 +1017,34 @@ ul.dash li:before {
 .listing-col-5.listing-small .large-text {
   display: none;
 }
-/*** PRODUCT DETAIL ***/
-.product-block .product-detail .left,
-.product-block .product-detail .right {
+/* ---------- PRODUCT BLOCK ---------- */
+.single-product-block .product-detail .left,
+.single-product-block .product-detail .right {
   width: 50%;
 }
-.product-block .product-detail .left {
+.single-product-block .product-detail .left {
   float: left;
 }
-.product-block .product-detail .right {
+.single-product-block .product-detail .right {
   float: right;
   padding-left: 20px;
+}
+.single-product-block .product-detail .title {
+  font-size: 2.5em;
+  line-height: 1.1em;
+  margin-bottom: 1em;
+  font-weight: 700;
+  display: inline-block;
+}
+.single-product-block .product-detail .brand {
+  font-size: 1.125em;
+  margin-left: 0.5em;
+  color: #000000;
+  text-decoration: underline;
+}
+.single-product-block .product-detail .brand:hover {
+  color: #95c11f;
+  text-decoration: none;
 }
 .tabs-heading .current a {
   font-weight: bold;
