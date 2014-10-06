@@ -164,6 +164,15 @@
 	height: 30px;
 	margin-right: 10px;
 }
+.ico-wishlist:before{
+	content: " ";
+	background: url(images/ico-wishlist.png) left top no-repeat;
+	display: inline-block;
+	vertical-align: middle;
+	width: 34px;
+	height: 34px;
+	margin-right: 10px;
+}
 
 /* ANIMATION */
 
@@ -1012,19 +1021,33 @@ ul.dash li:before {
 
 
 /*** PRODUCT DETAIL ***/
-.product-detail-block{
-	.left,
-	.right{
-		width: 50%;
-	}
-	.left{
-		float: left;
-	}
-	.right{
-		float: right;
-		padding-left: 20px;
+.product-block{
+	.product-detail	{
+		.left,
+		.right{
+			width: 50%;
+		}
+		.left{
+			float: left;
+		}
+		.right{
+			float: right;
+			padding-left: 20px;
+		}
 	}
 }
+
+.tabs-heading .current a{
+	font-weight: bold;
+}
+.tab-item{
+	display: none;
+}
+#tab-specs{
+	display: block;
+}
+
+
 
 
 .bottom-area{
